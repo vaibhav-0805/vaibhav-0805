@@ -1,7 +1,7 @@
 
 
-👋 Hi there , I’m Vaibhav
-👀 I’m interested in Web Dev
+##👋 Hi there , I’m Vaibhav 
+##👀 I’m interested in Web Dev
 🌱 I’m currently learning ReactJs, NodeJs, Express, Mongodb and the list is endless...
 👯 I’m looking to collaborate on the projects related to Web Dev.
 📫 You can contact me by putting a mail on my mail-id vaibhavkrishna8659@gmail.com
